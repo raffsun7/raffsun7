@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing🤪
 - 📫 How to reach me?
--        mail: raffsun1@outlook.com
+-        mail: me.raffsun@outlook.com
 -        facebook: facebook.com/me.raffsun/
 -        instagram: instagram.com/me.raffsun/
 -        telegram: telegram.org/raffsun/
