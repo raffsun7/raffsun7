@@ -1,14 +1,53 @@
-- 👋 Hi, I’m @raffsun7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing🤪
-- 📫 How to reach me?
--        mail: me.raffsun@outlook.com
--        facebook: facebook.com/me.raffsun/
--        instagram: instagram.com/me.raffsun/
--        telegram: telegram.org/raffsun/
+<h1 align="center">Hi 👋, I'm Raffsun</h1>
+<h3 align="center">Student • Web Developer • Dreamer • Explorer</h3>
 
-<!---
-raffsun7/raffsun7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about **coding & building cool things**
+- 🌱 Currently learning **Python & modern web technologies**
+- 🎯 Focused on becoming a **skilled full-stack developer**
+- 🧠 Love clean UI, smart systems, and creative ideas
+- ✨ Turning imagination into real projects
+
+---
+
+## 🛠️ Tech & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 🌟 What I Enjoy Building
+
+- 🎨 Beautiful and interactive web apps  
+- ⚡ Fast, modern UI/UX experiences  
+- 🤖 Smart tools that solve real problems  
+- 🧩 Creative side projects  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raffsun7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffsun7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **me.raffsun@outlook.com**
+- 🌐 Facebook: https://facebook.com/me.raffsun
+- 📸 Instagram: https://instagram.com/me.raffsun
+- 💬 Telegram: https://t.me/raffsun
+
+---
+
+<p align="center">
+✨ "Build. Learn. Improve. Repeat." ✨
+</p>
