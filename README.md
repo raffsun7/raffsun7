@@ -1,46 +1,58 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Raffsun</h1>
+<h1 align="center">Hi, I'm Raffsun 👋</h1>
 
 <p align="center">
-Student • Web Developer • Builder • Visionary
+A curious student who loves building things on the internet.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Smart+Web+Experiences;Learning+Python+%26+Advanced+Tech;Future+Full-Stack+Developer;Consistency+Over+Everything" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+cool+things+for+the+web;Learning+Python+and+modern+tech;Future+Full+Stack+Developer;Trying+to+improve+every+day" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about crafting modern, clean software  
-- 🌱 Currently mastering **Python & Web Development**  
-- 🎯 Focused on becoming a high-impact full-stack developer  
-- 🧠 Interested in UI/UX, automation, and intelligent systems  
-- ⚡ I build, break, learn, repeat  
+I'm a student who enjoys turning ideas into simple, useful web projects.
+
+I started learning development out of curiosity — and quickly realized I love the process of **building, experimenting, breaking things, and learning from it.**
+
+Right now I'm mainly focused on:
+
+- 🌱 Learning **Python and modern web development**
+- 💻 Building small but meaningful projects
+- 🎨 Improving **UI/UX and design sense**
+- ⚡ Exploring automation and smart tools
+
+I believe progress comes from **consistent small improvements every day.**
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Skills I'm Working With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=dark" />
 </p>
 
----
-
-## 🌟 What I Build
-
-- 🎨 Interactive web applications  
-- ⚡ Fast & responsive interfaces  
-- 🤖 Smart tools solving real problems  
-- 🧩 Creative experimental projects  
+These are the tools I currently use to build and experiment.
 
 ---
 
+## 🛠 Things I Like Building
 
-## 🔥 Contribution Streak
+- Interactive web apps  
+- Clean and responsive interfaces  
+- Small tools that solve real problems  
+- Creative experimental projects  
+
+Sometimes the idea works.  
+Sometimes it fails.  
+Either way, I learn something.
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raffsun7&theme=tokyonight&hide_border=true" />
@@ -56,7 +68,7 @@ Student • Web Developer • Builder • Visionary
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:me.raffsun@outlook.com">
@@ -75,16 +87,18 @@ Student • Web Developer • Builder • Visionary
 
 ---
 
-## 💡 Philosophy
+## 💡 A Simple Philosophy
 
 <p align="center">
-<b>Build things that matter.<br>
+<b>
+Build useful things.<br>
 Stay curious.<br>
-Never stop improving.</b>
+Keep improving.
+</b>
 </p>
 
 ---
 
 <p align="center">
-✨ <i>“Great software is built by curious minds.”</i> ✨
+<i>"Every great developer started by building something small."</i>
 </p>
